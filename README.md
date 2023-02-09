@@ -55,7 +55,7 @@ I'm very familiar with BlockChain | DApp | Solidity | Haskell | Rust | NFT marke
   <a href="https://github.com/PrincePRS">
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   </a>
-  <a href="https://github.com/charles0831">  
+  <a href="https://github.com/PrincePRS">  
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   </a>
   <a href="https://github.com/PrincePRS">
